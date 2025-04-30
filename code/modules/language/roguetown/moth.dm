@@ -1,9 +1,9 @@
 /datum/language/moth
 	name = "Moth"
 	desc = "Bzz language."
-	speech_verb = "chitter"
-	ask_verb = "chitters"
-	exclaim_verb = "flutters"
+	speech_verb = "жужжит"
+	ask_verb = "пищит"
+	exclaim_verb = "восклижжует"
 	key = "m"
 	flags = LANGUAGE_HIDE_ICON_IF_UNDERSTOOD | LANGUAGE_HIDE_ICON_IF_NOT_UNDERSTOOD
 	space_chance = 15
