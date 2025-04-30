@@ -3,7 +3,7 @@
 	desc = "Bzz language."
 	speech_verb = "жужжит"
 	ask_verb = "пищит"
-	exclaim_verb = "восклижжует"
+	exclaim_verb = "трепещет"
 	key = "m"
 	flags = LANGUAGE_HIDE_ICON_IF_UNDERSTOOD | LANGUAGE_HIDE_ICON_IF_NOT_UNDERSTOOD
 	space_chance = 15
