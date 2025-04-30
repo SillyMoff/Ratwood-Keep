@@ -602,7 +602,8 @@ GLOBAL_LIST_EMPTY(asset_datums)
 		"draconic.ttf" = 'interface/fonts/languages/draconic.ttf',
 		"fae.ttf" = 'interface/fonts/languages/fae.ttf',
 		"lupian.ttf" = 'interface/fonts/languages/lupian.ttf',
-		"felid.ttf" = 'interface/fonts/languages/felid.ttf'
+		"felid.ttf" = 'interface/fonts/languages/felid.ttf',
+		"moth.ttf" = 'interface/fonts/languages/moth.ttf',
 	)
 
 /datum/asset/spritesheet/goonchat

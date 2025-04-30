@@ -74,6 +74,10 @@ body {
   src: url('lupian.ttf'); 
 }
 
+@font-face {
+	font-family: "Mothic";
+	src: url('moth.tt');
+}
 /* */
 
 em {
@@ -285,8 +289,6 @@ a.popt {text-decoration: none;}
 /* ADMIN FILTER MESSAGES MENU */
 .filterMessages {padding: 5px;}
 .filterMessages div {padding: 2px 0;}
-.filterMessages input {}
-.filterMessages label {}
 
 .icon-stack {height: 1em; line-height: 1em; width: 1em; vertical-align: middle; margin-top: -2px;}
 
@@ -430,6 +432,7 @@ h1.alert, h2.alert	{color: #c9c1ba;font-family: Pterra, TrueType;}
 .beast					{font-family: "Thief by The Riddler", Pterra;}
 .reptile				{font-family: "Kingthings Petrock", Pterra; font-size: 120%;}
 .lupian					{font-family: "Emperialisme", Pterra; font-size: 120%;}
+.moth                   {font-family: "Moth", "Pterra"; font-size: 90%}
 
 .torture				{color: #42ff20}
 
